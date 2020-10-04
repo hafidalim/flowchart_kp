@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T12:39:40.189Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="1TLNEf7e3Gopdil6EcMP" version="13.7.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-04T12:40:56.578Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="t5WLKlyVEBehZKbghuWq" version="13.7.7" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -432,20 +432,19 @@
             <mxPoint x="580" y="705.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5tcHAiI0GrSS87oJVEan-25" value="result = number1 +&lt;br&gt;number2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="KkKaiJnRASPoldY5LdVL-1">
+        <mxCell id="5tcHAiI0GrSS87oJVEan-25" value="input jari, tinggi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="KkKaiJnRASPoldY5LdVL-1">
           <mxGeometry x="270" y="675" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5tcHAiI0GrSS87oJVEan-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="KkKaiJnRASPoldY5LdVL-1" source="5tcHAiI0GrSS87oJVEan-27" target="5tcHAiI0GrSS87oJVEan-41">
+        <mxCell id="5tcHAiI0GrSS87oJVEan-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KkKaiJnRASPoldY5LdVL-1" source="5tcHAiI0GrSS87oJVEan-27" target="5tcHAiI0GrSS87oJVEan-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="580" y="855" />
-              <mxPoint x="580" y="735" />
+              <mxPoint x="670" y="855" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5tcHAiI0GrSS87oJVEan-27" value="Menu tidak valid" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="KkKaiJnRASPoldY5LdVL-1">
-          <mxGeometry x="270" y="825" width="120" height="60" as="geometry" />
+        <mxCell id="5tcHAiI0GrSS87oJVEan-27" value="&quot;Menu tidak valid&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="KkKaiJnRASPoldY5LdVL-1">
+          <mxGeometry x="380" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5tcHAiI0GrSS87oJVEan-30" value="end" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="KkKaiJnRASPoldY5LdVL-1">
           <mxGeometry x="610" y="1050" width="120" height="80" as="geometry" />
@@ -494,6 +493,9 @@
             <mxPoint x="670" y="555" as="targetPoint" />
             <mxPoint x="380" y="555" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5tcHAiI0GrSS87oJVEan-46" value="result = 3.14 * jari&lt;br&gt;*jari * tinggi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="KkKaiJnRASPoldY5LdVL-1">
+          <mxGeometry x="450" y="675" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
